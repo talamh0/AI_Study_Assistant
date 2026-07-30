@@ -2,7 +2,7 @@
 
 A multi-agent AI Study Assistant built with LangGraph. It uses uploaded PDF documents to answer questions, generate summaries, and create quizzes using Retrieval-Augmented Generation (RAG).
 
-## Programme
+ ## Programme
 - Programme: SDAIA Academy – Building AI Agent Systems
 - Cohort: 26–30 July 2026
 
