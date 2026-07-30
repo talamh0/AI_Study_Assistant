@@ -24,3 +24,14 @@ A multi-agent AI Study Assistant built with LangGraph. It uses uploaded PDF docu
 5. Upload a text-based PDF.
 6. Enter a study request.
 7. Type yes or no when quiz approval is requested.
+
+ ## Technologies
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Functional_API-black)
+![LangChain](https://img.shields.io/badge/LangChain-Agent_Framework-1C3C3C)
+![Groq](https://img.shields.io/badge/Groq-LLM_API-F55036)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Store-0467DF)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-Embeddings-FFD21E?logo=huggingface&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-Structured_Output-E92063?logo=pydantic&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-Observability-black)
+![Google Colab](https://img.shields.io/badge/Google_Colab-Notebook-F9AB00?logo=googlecolab&logoColor=white)
