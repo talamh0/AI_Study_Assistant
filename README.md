@@ -25,6 +25,12 @@ A multi-agent AI Study Assistant built with LangGraph. It uses uploaded PDF docu
 6. Enter a study request.
 7. Type yes or no when quiz approval is requested.
 
+
+
+ ## Reference
+
+- [SDAIA Academy GitHub](https://github.com/SDAIAAcademy)
+
  ## Technologies
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Functional_API-black)
